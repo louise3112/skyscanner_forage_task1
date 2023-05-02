@@ -7,7 +7,7 @@
 
 # Skyscanner Forage - Task 1
 
-Backpack React App created for Task 1 of the Skyscanner Software Engineering virtual experience programme on Forage.
+Gained experience creating a simple Backpack React app that displays a calendar as part of Skyscanner's Software Engineering Virtual Experience Programme on Forage.
 
 ## npm script commands
 
